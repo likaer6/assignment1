@@ -6,13 +6,13 @@
 
 What is an average age of respondents?
 
-## Most popular pub in Yerevan
-
-Which is most popula pub in Yerevan?
-
 ### Average income of respondents
 
 What is an average income of respondents?
+
+## Most popular pub in Yerevan
+
+Which is most popula pub in Yerevan?
 
 #### list of columns
 
