@@ -11,7 +11,7 @@ What is an average age of respondents?
 
 What is an average income of respondents?
 
-- ֏110,197
+- ֏110,197/$267
 
 ## Most popular pub in Yerevan
 
