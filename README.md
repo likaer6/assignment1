@@ -4,15 +4,19 @@
 
 ## Average age of respondents
 
-What is an average age of respondents?
+What is an average age of respondents? 
+- 19
 
 ### Average income of respondents
 
 What is an average income of respondents?
 
+- ֏110,197
+
 ## Most popular pub in Yerevan
 
 Which is most popula pub in Yerevan?
+- Calumet
 
 #### list of columns
 
