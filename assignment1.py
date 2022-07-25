@@ -19,7 +19,10 @@ df = pd.read_csv ('armenian_pubs_csv.csv')
 occurences = Counter(df['Fav_Pub'])
 most_used_word = max(occurences, key = occurences.get)
 # %%
+# What is the favorite pub among female and male visitors?
 pd.pivot_table(df, index = ["Gender ", "Fav_Pub"], aggfunc='size').sort_values(ascending=False)
+# %%
+df.to_csv 
 # %%
 # What is the average age and income of the respondents?
 df.mean(axis='index')

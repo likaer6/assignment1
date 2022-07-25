@@ -26,6 +26,10 @@ What are most people willing to spend at the pub?
 What is age that was given most of the times?
 - 18
 
+## Favourite pubs for male and female respondents
+What is the favorite pub among female and male visitors?
+- Male: Station; Female: Calumet
+
 #### list of columns
 
 * Income - Your Approximate Monthly Income (in Armenian Dram)
