@@ -18,6 +18,14 @@ What is an average income of respondents?
 Which is most popula pub in Yerevan?
 - Calumet
 
+## Willingness to spend at the pub
+What are most people willing to spend at the pub?
+- ֏5,000/$12
+
+## Most frequent age
+What is age that was given most of the times?
+- 18
+
 #### list of columns
 
 * Income - Your Approximate Monthly Income (in Armenian Dram)
